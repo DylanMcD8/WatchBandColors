@@ -35,6 +35,7 @@ Every color and function has included autocomplete comments.
   ![An image showing Xcode offering an autocomplete description of Dark Cherry, from the Fall 2021 Collection in response to view.backgroundColor = .dark being typed.](/Images/AutocompleteExample.webp)
   
 A demo project has been included so you can preview the package's functionality.
+
 ![An image showing the demo project's interface.](/Images/DemoProject.webp | height = 200)
 
 
