@@ -17,20 +17,21 @@ There are many arrays provided for ease of use. There is an array for each seaso
 There are also two functions provided: `getColorString(forColor: UIColor)` and `isLightColor(forColor: UIColor)`. `getColorString` will provide the official Apple name for a given watch band color. `isLightColor` will return if Apple has deemed a given color as needing dark-colored text instead of light-colored text. 
 	**Example usage:**
 	
-	```swift
-	import WatchBandColors
-	
-	cell.titleLabel.text = UIColor.getColorString(forColor: UIColor.allRegularColors[index])
-	
-	if UIColor.isLightColor(forColor: UIColor.allRegularColors[index]) {
-		cell.titleLabel.textColor = .black
-	} else {
-		cell.titleLabel.textColor = .white
-	}
-	```
+```swift
+import WatchBandColors
+
+cell.titleLabel.text = UIColor.getColorString(forColor: UIColor.allRegularColors[index])
+
+if UIColor.isLightColor(forColor: UIColor.allRegularColors[index]) {
+	cell.titleLabel.textColor = .black
+} else {
+	cell.titleLabel.textColor = .white
+}
+```
 
 
 Every color and function has included autocomplete comments.
+
 <img
   src="/Images/AutocompleteExample.webp"
   alt="An image showing Xcode offering an autocomplete description of \"Dark Cherry, from the Fall 2021 Collection\" in response to view.backgroundColor = .dark being typed."
