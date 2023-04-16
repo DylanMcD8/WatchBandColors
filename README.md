@@ -34,7 +34,7 @@ Every color and function has included autocomplete comments.
 
 <img
   src="/Images/AutocompleteExample.webp"
-  alt="An image showing Xcode offering an autocomplete description of \"Dark Cherry, from the Fall 2021 Collection\" in response to view.backgroundColor = .dark being typed."
+  alt="An image showing Xcode offering an autocomplete description of Dark Cherry, from the Fall 2021 Collection in response to view.backgroundColor = .dark being typed."
   style="display: inline-block; margin: 0 auto; max-width: 300px">
 
 
