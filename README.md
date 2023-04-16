@@ -32,10 +32,10 @@ if UIColor.isLightColor(forColor: UIColor.allRegularColors[index]) {
 
 Every color and function has included autocomplete comments.
 
-<img
-  src="/Images/AutocompleteExample.webp"
-  alt="An image showing Xcode offering an autocomplete description of Dark Cherry, from the Fall 2021 Collection in response to view.backgroundColor = .dark being typed."
-  style="display: inline-block; margin: 0 auto; max-width: 300px">
+  ![A screenshot of the demo project interface](/Images/DemoProject.webp)
+  
+A demo project has been included so you can preview the package's functionality.
+
 
 
 To use this package, you can install via Swift Packages, or just add the `WatchBandColors.swift` file to your project. However, using the Swift Package version will allow easy updates for when Apple adds new colors.
