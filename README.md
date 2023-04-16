@@ -1,7 +1,7 @@
 # WatchBandColors
-###By Dylan McDonald
+### By Dylan McDonald
 
-##**WatchBandColors** is a convenient package that provides all of the Apple Watch Band colors that Apple uses for their Watch face options in watchOS. The colors are split into regular color options and Nike color options. A **demo project** is included for your convenience.
+## **WatchBandColors** is a convenient package that provides all of the Apple Watch Band colors that Apple uses for their Watch face options in watchOS. The colors are split into regular color options and Nike color options. A **demo project** is included for your convenience.
 [IMAGE]
 
 **WatchBandColors** is, by default, implemented as an extension of UIColor so that you can make easy statements like `view.tintColor = .englishLavender`. If you want, you can easily change it to be a struct by following the instructions in `WatchBandColors.swift`.
