@@ -11,9 +11,9 @@
 import UIKit
 
 // If you want to separate the colors from UIColor, uncomment this line:
-// struct WatchBandColors {
+// public struct WatchBandColors {
 // And comment out this line:
-extension UIColor {
+public extension UIColor {
 	// MARK: Base Colors (No Year)
 	/// The default Red color (not associated with a watch band)
 	static let defaultRed = UIColor(red: 234/255, green: 66/255, blue: 66/255, alpha: 1.00)

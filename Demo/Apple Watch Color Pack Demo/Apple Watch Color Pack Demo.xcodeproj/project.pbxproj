@@ -13,6 +13,7 @@
 		6625CDFD29EBC4B600B2C9FB /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 6625CDFB29EBC4B600B2C9FB /* Main.storyboard */; };
 		6625CDFF29EBC4B700B2C9FB /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 6625CDFE29EBC4B700B2C9FB /* Assets.xcassets */; };
 		6625CE0229EBC4B700B2C9FB /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 6625CE0029EBC4B700B2C9FB /* LaunchScreen.storyboard */; };
+		66B0BEFB29EC9D57006B8900 /* WatchBandColors.swift in Sources */ = {isa = PBXBuildFile; fileRef = 66B0BEFA29EC9D57006B8900 /* WatchBandColors.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		6625CDFE29EBC4B700B2C9FB /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		6625CE0129EBC4B700B2C9FB /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		6625CE0329EBC4B700B2C9FB /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		66B0BEFA29EC9D57006B8900 /* WatchBandColors.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = WatchBandColors.swift; path = ../../../../../../Desktop/WatchBandColors/Sources/WatchBandColors/WatchBandColors.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +65,7 @@
 				6625CDFE29EBC4B700B2C9FB /* Assets.xcassets */,
 				6625CE0029EBC4B700B2C9FB /* LaunchScreen.storyboard */,
 				6625CE0329EBC4B700B2C9FB /* Info.plist */,
+				66B0BEFA29EC9D57006B8900 /* WatchBandColors.swift */,
 			);
 			path = "Apple Watch Color Pack Demo";
 			sourceTree = "<group>";
@@ -140,6 +143,7 @@
 			files = (
 				6625CDFA29EBC4B600B2C9FB /* DemoViewController.swift in Sources */,
 				6625CDF629EBC4B600B2C9FB /* AppDelegate.swift in Sources */,
+				66B0BEFB29EC9D57006B8900 /* WatchBandColors.swift in Sources */,
 				6625CDF829EBC4B600B2C9FB /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

@@ -15,7 +15,7 @@ class DemoViewController: UITableViewController {
 		super.viewDidLoad()
 		view.overrideUserInterfaceStyle = .dark
 		self.navigationController?.overrideUserInterfaceStyle = .dark
-//		numberSubtitleLabel.text = "\(WatchBandColors.allRegularColors.count + WatchBandColors.allNikeColors.count) Colors"
+		numberSubtitleLabel.text = "\(WatchBandColors.allRegularColors.count + WatchBandColors.allNikeColors.count) Colors"
 	}
 	
 	override func tableView(_ tableView: UITableView, numberOfRowsInSection section: Int) -> Int {
