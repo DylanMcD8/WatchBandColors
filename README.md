@@ -36,7 +36,7 @@ Every color and function has included autocomplete comments.
   
 A demo project has been included so you can preview the package's functionality.
 
-<img src="/Images/DemoProject.webp" height="200" 
+<img src="/Images/DemoProject.webp" height="200">
 
 
 
