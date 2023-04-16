@@ -48,4 +48,4 @@ To use this package, you can install via Swift Packages, or just add the `WatchB
 Please be sure to include proper credit in your project if you use this. This package is available under the MIT License.
 
 
-If you notice any issues or missing colors, please [contact me](mailto:dylan@dylanmcd.com)!
+If you notice any issues or missing colors, please [open a new issue](https://github.com/DylanMcD8/WatchBandColors/issues/new).
