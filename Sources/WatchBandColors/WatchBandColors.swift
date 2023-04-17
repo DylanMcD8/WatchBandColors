@@ -948,6 +948,8 @@ public extension UIColor {
 			return "Not a Band Color!"
 		}
 	}
+
+	// Make a list of TRUE ones and return list.contains(forColor)
 	
 	/// Return true if Apple has deemed this a color that is too light to use white-color text on. Based on the Apple Watch app.
 	// For these regular colors, I based the value on whether or nor the Contour watch face's Dial Color "on" setting used a dark or light color for the numbers.
